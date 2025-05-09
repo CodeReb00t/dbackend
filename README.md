@@ -1,4 +1,4 @@
-# 🧠 THE Backend (by Devansh)
+# 🧠 dbackend ( THE Backend ) 
 
 **THE Backend** (`dbackend`) is a modular, ready-to-use backend toolkit that simplifies user authentication, email handling, middleware management, and MongoDB integration. Designed for rapid backend development with clean structure and extensibility in mind.
 
